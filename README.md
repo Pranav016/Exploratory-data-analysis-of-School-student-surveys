@@ -44,7 +44,7 @@ Seaborn <br/>
 
 ![Plot4](/plots/plot4.PNG)
 
-* Plot relation for- if they are interested in music, they'd be interested in music too
+* Plot relation for- if they are interested in music, they'd be interested in movies too
 
 ![Plot5](/plots/plot5.PNG)
 
